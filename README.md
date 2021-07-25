@@ -18,7 +18,7 @@ Functional Programming in Scala
 - Anonymous Functions
 
 Missing, from Functional Programming:
-- 26. Higher-Order-Functions and Curries
+- Higher-Order-Functions and Curries
 - map, flatMap, filter and for-comprehensions
 - Sequences: List, Array, Vector
 - Tuples and Maps
